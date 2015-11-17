@@ -1,0 +1,34 @@
+{
+  "name": "UICSchedule",
+  "homepage": "https://github.com/timchoh585/UICSchedule",
+  "authors": [
+    "timchoh585",
+    "pn0222",
+    "dhruv26patel",
+    "Deadlocked21"
+  ],
+  "description": "UIC schedule webapp",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "schedule",
+    "app"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
