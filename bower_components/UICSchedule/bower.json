@@ -30,15 +30,5 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4"
-  },
-  "_release": "03f4e15a1c",
-  "_resolution": {
-    "type": "branch",
-    "branch": "master",
-    "commit": "03f4e15a1c5d04f3c19138742ec33072125304ae"
-  },
-  "_source": "git://github.com/timchoh585/UICSchedule.git",
-  "_target": "*",
-  "_originalSource": "git://github.com/timchoh585/UICSchedule.git",
-  "_direct": true
+  }
 }
